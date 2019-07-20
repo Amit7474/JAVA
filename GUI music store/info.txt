@@ -1,0 +1,2 @@
+GUI music inventory.
+create an inventory of music instruments that represented by classes.
